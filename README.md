@@ -1,2 +1,2 @@
-# strong_parameters_blog_post
+# Strong Parameters
 Code used in Strong Parameters post
